@@ -46,3 +46,25 @@ print(a[ :-1])   # print from the last of the list to the first of the list
 
 a.insert(0,10)  # here meaning is 0 is index number and 10 is the number which is have to inset in the list
 print(a)
+
+
+#Copying List Elements
+
+a = [10, 1, 0, 5, -1, -2, 6, 7]
+b = a
+print('The original list : ' ,a)
+print('The copied list : ' ,b)
+
+
+a = [10, 1, 0, 5, -1, -2, 6, 7]
+b = a
+b.append(100)
+print('The original list : ' ,a)
+print('The copied list : ' ,b)
+
+
+a = [10, 1, 0, 5, -1, -2, 6, 7]
+b = a.copy()      # as well as using for ML to not disturb original list
+b.append(100)
+print('The original list : ' ,a)
+print('The copied list : ' ,b)
