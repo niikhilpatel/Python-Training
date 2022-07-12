@@ -68,3 +68,10 @@ b = a.copy()      # as well as using for ML to not disturb original list
 b.append(100)
 print('The original list : ' ,a)
 print('The copied list : ' ,b)
+
+
+a = [10, 1, 0, 5, -1, -2, 6, 7]
+b = a[:]
+b.append(100)
+print('The original list : ' ,a)
+print('The copied list : ' ,b)
