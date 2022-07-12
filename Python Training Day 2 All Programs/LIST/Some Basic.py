@@ -39,3 +39,10 @@ print(a[0:5])    # PRINT THE value of index 0 to 5 which is 1, 0 , 5 , -1, -2
 print(a[-1:])    # PRINT THE value from the last of the list
 print(a[-2:-1])
 print(a[ :-1])   # print from the last of the list to the first of the list
+
+
+# LIst Insert
+
+
+a.insert(0,10)  # here meaning is 0 is index number and 10 is the number which is have to inset in the list
+print(a)
