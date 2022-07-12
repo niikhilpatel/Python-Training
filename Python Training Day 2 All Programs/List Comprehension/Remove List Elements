@@ -1,0 +1,22 @@
+a = ['Tony', 'Steve', 'Thor', 'Hulk', 'Thanos', 'Gorr']
+print(a)
+
+
+a.pop()
+print(a)
+
+
+a.pop(1)
+print(a)
+
+
+a.remove('Thanos')  # You cannot write index number  you have to write only values
+print(a)
+
+
+a.clear()
+print(a)
+
+
+del a 
+print(a)
