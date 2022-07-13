@@ -1,0 +1,25 @@
+a = 'python'
+print(a)
+
+
+a = "python"
+print(a)
+print(type(a))
+
+
+a = '''python'''
+print(a)
+print(type(a))
+
+
+a = """python"""
+print(a)
+print(type(a))
+
+
+a = "Python's training is fun"
+print(a)
+
+
+a = '''"Python's training is fun"'''
+print(a)
