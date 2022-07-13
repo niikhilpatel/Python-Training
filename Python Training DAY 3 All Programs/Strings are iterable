@@ -1,0 +1,8 @@
+a = 'Python'
+for i in a:
+  print(i)
+  
+  
+a = '123'                  #123 convert to string to make it iterable to add "",''
+for i in a:
+  print(a)
