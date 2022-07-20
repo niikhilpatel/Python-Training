@@ -6,3 +6,4 @@
 ###### <BR> DAY 3 : https://github.com/niikhilpatel/Python-Training/tree/main/Python%20Training%20DAY%203%20All%20Programs
 ###### <BR> DAY 4 : https://github.com/niikhilpatel/Python-Training/blob/main/Python_Training_Day_4_All_Programs.ipynb
 ###### <BR> DAY 5 : https://github.com/niikhilpatel/Python-Training/blob/main/Python_Training_Day_5_All_Programs_Dictionary.ipynb
+###### <BR> DAY 6 : https://github.com/niikhilpatel/Python-Training/blob/main/Python_Training_Day_6_All_Programs_Sets_in_Python.ipynb
